@@ -8,7 +8,7 @@
 
 ### Mine
 
-create account (only onece at first)
+create account (only once at first)
 
 > sudo docker run -v /path/to/data:/data quay.io/tumf/geth account new
 
